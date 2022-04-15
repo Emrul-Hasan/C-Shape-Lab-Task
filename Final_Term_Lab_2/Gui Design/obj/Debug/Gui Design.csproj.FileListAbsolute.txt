@@ -1,0 +1,10 @@
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\bin\Debug\Gui Design.exe.config
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\bin\Debug\Gui Design.exe
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\bin\Debug\Gui Design.pdb
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\obj\Debug\Gui Design.csproj.AssemblyReference.cache
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\obj\Debug\Gui_Design.Form1.resources
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\obj\Debug\Gui_Design.Properties.Resources.resources
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\obj\Debug\Gui Design.csproj.GenerateResource.cache
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\obj\Debug\Gui Design.csproj.CoreCompileInputs.cache
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\obj\Debug\Gui Design.exe
+E:\AIUB\9th Semester\C#\Final Lab Task 2\Gui Design\obj\Debug\Gui Design.pdb
